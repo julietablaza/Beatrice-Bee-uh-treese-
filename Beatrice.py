@@ -279,4 +279,3 @@ else:
             '''
             if choice(question6, q6option1, q6option2, q6outcome1, q6outcome2) == "outcome2":
                 print("-----------------GAME OVER-------------------")
-            else:

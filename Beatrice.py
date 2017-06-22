@@ -268,6 +268,7 @@ else:
     The colors remind you of two of the B-Dops. You shudder with disgust and
     wonder which way to go.
     '''
+            print(story4)
             question7 = "Do you go right or left?"
             q7option1 = "right"
             q7option2 = "left"
